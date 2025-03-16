@@ -211,6 +211,12 @@ input:focus {
     margin: 10px 0;
 }
 
+.spinner {
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+
 @media (max-width: 600px) {
     .rating li {
         margin: 10px 3px;
@@ -227,4 +233,5 @@ input:focus {
     .input-group input {
         width: 80%;
     }
+
 }
