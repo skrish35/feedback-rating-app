@@ -15,7 +15,7 @@ This project includes concepts of:
 
 # Usage:
 - Clone the repo
-```git clone ```
+```git clone https://github.com/skrish35/feedback-rating-app.git```
 
 - Install Dependencies
 ```npm install```
