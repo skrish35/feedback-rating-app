@@ -1,4 +1,4 @@
-# Feedback Rating App - React
+# Feedback Rating Application - React
 
 Feedback Rating App allows users to add, update and delete feedback. It uses a mock REST api with json-server.
 
