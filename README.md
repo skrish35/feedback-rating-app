@@ -2,16 +2,12 @@
 
 A simple and interactive React application that allows users to **add, update, and delete feedback**. This project uses a **mock REST API** with **json-server** to simulate real backend functionality.
 
----
-
 ## 🚀 Features
 
 * ✅ **Add Feedback** – Users can submit new feedback.
 * ✏️ **Update Feedback** – Edit existing feedback.
 * ❌ **Delete Feedback** – Remove feedback entries.
 * 🔄 **Live API Interaction** – Interacts with a mock REST API powered by **json-server**.
-
----
 
 ## 🛠 Concepts Covered
 
@@ -27,16 +23,12 @@ This project demonstrates key React concepts including:
 * **Context API** – Managing global state.
 * **HTTP Requests** – Fetching and updating data using REST API.
 
----
-
 ## 🛠 Technologies Used
 
 * **Frontend:** React.js
 * **API:** Mock REST API using [json-server](https://github.com/typicode/json-server)
 * **Styling:** Styled Components
 * **State Management:** React State & Context API
-
----
 
 ## 💻 Installation
 
@@ -72,8 +64,6 @@ npm start
 
 The app will run on [http://localhost:3000](http://localhost:3000).
 
----
-
 ## 📂 Folder Structure
 
 ```
@@ -83,8 +73,6 @@ src/
 ├── App.js        # Main App component
 └── index.js      # Entry point
 ```
-
----
 
 ## 🤝 Contributing
 
